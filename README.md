@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruvi Kanakdiya</h1>
-<h3 align="center">I'm web developer student</h3>
+<h3 align="center">Aspiring web developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvikankadiya1337&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvikankadiya1337" /> </p>
 
