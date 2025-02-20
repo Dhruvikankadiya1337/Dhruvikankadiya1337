@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhruvi Kanakdiya</h1>
+<h3 align="center">I'm web developer student</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvikankadiya1337&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvikankadiya1337" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvikankadiya1337" alt="dhruvikankadiya1337" /></a> </p>
 
 - 🌱 I’m currently learning **Java-script**
+
+- 📫 How to reach me **8585dhruvikankadiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
