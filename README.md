@@ -1,9 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-744WynwLsMw/XbBpCXG8fHI/AAAAAAAAMT4/u0a1bpLskVgrwGb11h5u2SDj_Mig8SXJQCLCBGASYHQ/s1600/2000_600px.gif)] 
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsRw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGbl1hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.lo)
 <h1 align="center">Hi 👋, I'm Dhruvi Kanakdiya</h1>
 <h3 align="center">Aspiring frontend developer</h3>
 
-<img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&s">
+  <img align="right" src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTExMTE1MjAsIm5iZiI6MTc1MTExMTIyMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI4VDExNDcwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ODY0MjZlMDBlYjU1MGIyMDlhN2Q4ZWQ3N2VkYzEyNjAwMjg3YWYyYmUwOWExMDkzYTUyOGJiZGI3YmQxN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jxzzYwL8RGvqYVS6EaCBgJmYVYUVsrOgM5Hw7g3VdfU">
 
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvikankadiya1337&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvikankadiya1337" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvikankadiya1337" alt="dhruvikankadiya1337" /></a> </p>
