@@ -1,7 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-744WynwLsMw/XbBpCXG8fHI/AAAAAAAAMT4/u0a1bpLskVgrwGb11h5u2SDj_Mig8SXJQCLCBGASYHQ/s1600/2000_600px.gif)] 
 <h1 align="center">Hi 👋, I'm Dhruvi Kanakdiya</h1>
 <h3 align="center">Aspiring frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&s">
+<img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvikankadiya1337&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvikankadiya1337" /> </p>
 
