@@ -1,33 +1,70 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsRw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGbl1hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Dhruvi Kanakdiya</h1>
-<h3 align="center">Aspiring frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Dhruvi Kankadiya</h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p  align="center" >
- <img  width="400" alt="coding" src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTExMTE1MjAsIm5iZiI6MTc1MTExMTIyMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI4VDExNDcwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ODY0MjZlMDBlYjU1MGIyMDlhN2Q4ZWQ3N2VkYzEyNjAwMjg3YWYyYmUwOWExMDkzYTUyOGJiZGI3YmQxN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jxzzYwL8RGvqYVS6EaCBgJmYVYUVsrOgM5Hw7g3VdfU">
- </p>
+---
 
+### 💫 About Me
+- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB**
+- 💻 I love building **dynamic web applications** and **creative front-end UIs**
+- 🚀 Currently working on **MERN Stack Projects**
+- 🎯 Goal: To become a **Full Stack Developer** and contribute to open-source projects
+- ⚡ Fun fact: I debug faster with coffee ☕
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvikankadiya1337&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvikankadiya1337" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvikankadiya1337" alt="dhruvikankadiya1337" /></a> </p>
+### 🧠 Tech Stack
+#### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+#### Backend:
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
-- 🌱 I’m currently learning **React**
+#### Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
 
-- 📫 How to reach me **8585dhruvikankadiya@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhruvi kankadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvi kankadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruvi_kankadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvi_kankadiya" height="30" width="40" /></a>
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvikankadiya1337&show_icons=true&locale=en&layout=compact" alt="dhruvikankadiya1337" /></p>
+### 🏗️ My Projects
+| Project | Description | Tech Stack | Link |
+|----------|--------------|------------|------|
+| 🎵 Custom Music Player | A web-based player with 10 songs & animation | HTML, CSS, JS | [View](#) |
+| 🧠 Quiz Website | 10 MCQs with timer & score | HTML, CSS, JS | [View](#) |
+| 🔥 MERN Todo App | Add, edit, and delete tasks | MERN Stack | [View](#) |
+| 💬 Chat App | Real-time chat using Socket.io | React, Node.js, Socket.io | [View](#) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvikankadiya1337&show_icons=true&locale=en" alt="dhruvikankadiya1337" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvikankadiya1337&" alt="dhruvikankadiya1337" /></p>
+### 📫 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yourmail@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+⭐ **Feel free to explore my repositories and drop a star if you like my work!**
