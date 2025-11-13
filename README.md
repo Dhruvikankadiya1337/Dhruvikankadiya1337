@@ -13,16 +13,12 @@
 ### 🧠 Tech Stack  
 
 #### 👩‍💻 Frontend  
-`HTML` • `CSS` • `JavaScript` • `React.js` • `Bootstrap` • `Tailwind CSS`
-
+`HTML` • `CSS` • `JavaScript` • `React.js` • `Bootstrap`
 #### ⚙️ Backend  
 `Node.js` • `Express.js`
 
-#### 🗄️ Database  
-`MySQL` • `MongoDB`
-
 #### 🧰 Tools & Platforms  
-`VS Code` • `Git` • `GitHub` • `Postman` • `Vercel` • `Netlify`
+`VS Code` • `GitHub` • `Postman` • `Netlify`
 
 ---
 
