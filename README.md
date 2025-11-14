@@ -3,13 +3,6 @@
 
 ---
 
-### 🌟 About Me  
-🚀 I'm a BCA + Mathematics student passionate about building modern, responsive web apps using the latest technologies.  
-💡 I love solving problems, learning new frameworks, and improving user experiences through clean, efficient code.  
-🎯 My goal is to become a skilled Full Stack Developer and contribute to impactful open-source projects.
-
----
-
 ### 🧠 Tech Stack  
 
 #### 👩‍💻 Frontend  
