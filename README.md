@@ -30,13 +30,6 @@ Node.js
   <img src="https://github-profile-trophy.vercel.app/?username=Dhruvikankadiya1337&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'Dhruvikankadiya1337' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvikankadiya1337&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'Dhruvikankadiya1337' with your actual GitHub username in the URL below -->
