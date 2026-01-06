@@ -54,5 +54,3 @@ Here are some of the technologies I frequently work with:
 - 🥇 Real-world MERN Projects Completed
 
 ---
-
-> 💡 *“Code is poetry, and every commit tells a story.”*  
