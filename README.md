@@ -1,4 +1,4 @@
-# Hi, I'm Dhruvi Kankadiya 👋
+# Hi, 👋 I'm Dhruvi Kankadiya 
 
 ### 👩‍💻 About Me
 Junior MERN Stack Developer with hands-on experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.  
