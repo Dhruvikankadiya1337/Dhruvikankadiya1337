@@ -34,9 +34,8 @@ Here are some of the technologies I frequently work with:
   <img src="https://github-profile-trophy.vercel.app/?username=DhruviKankadiya1337&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
-### 📅 Contribution Activity
-<img src="https://ghchart.rshah.org/409ba5/DhruviKankadiya1337" alt="Contribution Calendar" width="100%"/>
-<!-- ✅ This is the classic green squares GitHub contribution graph -->
+### 📅 Contribution Calendar
+![Dhruvi's GitHub contributions](https://github.com/DhruviKankadiya1337.png)
 
 ---
 
