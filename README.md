@@ -1,3 +1,27 @@
+
+# Hi, 👋 I'm Dhruvi Kankadiya 
+
+### 👩‍💻 About Me
+Junior MERN Stack Developer with hands-on experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.  
+I enjoy creating responsive web apps, learning new technologies, and contributing to real-world projects.
+
+### 🌱 Currently Learning
+- Node.js, Express.js, MERN stack advanced patterns
+
+### 💬 Ask me about
+- MERN Stack Development, REST APIs, Frontend & Backend Development, MongoDB
+
+---
+
+## 🛠️ Technology Arsenal
+Here are some of the technologies I frequently work with:
+
+- **Frontend:** HTML5, CSS3, React.js, JavaScript, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Tools & Platforms:** Git, GitHub, Postman, Thunder Client, VS Code, Netlify
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -31,59 +55,6 @@
 
 ---
 
-
-
-
-
-?? new
-
-# Hi, 👋 I'm Dhruvi Kankadiya 
-
-### 👩‍💻 About Me
-Junior MERN Stack Developer with hands-on experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.  
-I enjoy creating responsive web apps, learning new technologies, and contributing to real-world projects.
-
-### 🌱 Currently Learning
-- Node.js, Express.js, MERN stack advanced patterns
-
-### 💬 Ask me about
-- MERN Stack Development, REST APIs, Frontend & Backend Development, MongoDB
-
----
-
-## 🛠️ Technology Arsenal
-Here are some of the technologies I frequently work with:
-
-- **Frontend:** HTML5, CSS3, React.js, JavaScript, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
-- **Tools & Platforms:** Git, GitHub, Postman, Thunder Client, VS Code, Netlify
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
