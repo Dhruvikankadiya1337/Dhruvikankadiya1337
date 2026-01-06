@@ -35,7 +35,8 @@ Here are some of the technologies I frequently work with:
 </p>
 
 ### 📅 Contribution Calendar
-![Dhruvi's GitHub contributions](https://github.com/DhruviKankadiya1337.png)
+![GitHub Contributions](https://ghchart.rshah.org/409ba5/DhruviKankadiya1337)
+
 
 ---
 
