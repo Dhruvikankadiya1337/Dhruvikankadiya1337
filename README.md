@@ -1,96 +1,59 @@
-# Dhruvi kankadiya
+# Hi, I'm Dhruvi Kankadiya 👋
 
-```typescript
-const profile = {
-  name: "Dhruvi kankadiya",
-  bio: "Junior MERN Stack Developer focused on full-stack web development. Passionate about problem-solving, coding, and building scalable applications.",
-  learning: "Node.js",
-  skills: [
-    "React",
-    "HTML5",
-    "CSS3",
-    "Bootstrap",
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "JavaScript",
-    "C"
-  ],
-}
-```
+### 👩‍💻 About Me
+Junior MERN Stack Developer with hands-on experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.  
+I enjoy creating responsive web apps, learning new technologies, and contributing to real-world projects.
 
-## 🌱 I'm currently learning
+### 🌱 Currently Learning
+- Node.js, Express.js, MERN stack advanced patterns
 
-Node.js
+### 💬 Ask me about
+- MERN Stack Development, REST APIs, Frontend & Backend Development, MongoDB
 
-## 🏆 GitHub Trophies
+---
 
-<!-- ⚠️ Important: Replace 'Dhruvikankadiya1337' with your actual GitHub username in the URL below -->
+## 🛠️ Technology Arsenal
+Here are some of the technologies I frequently work with:
+
+- **Frontend:** HTML5, CSS3, React.js, JavaScript, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Tools & Platforms:** Git, GitHub, Postman, Thunder Client, VS Code, Netlify
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DhruviKankadiya1337&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruviKankadiya1337&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvikankadiya1337&theme=onedark&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DhruviKankadiya1337&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
-## 🔝 Most Used Languages
+### 📅 Contribution Activity
+<img src="https://ghchart.rshah.org/409ba5/DhruviKankadiya1337" alt="Contribution Calendar" width="100%"/>
+<!-- ✅ This is the classic green squares GitHub contribution graph -->
 
-<!-- ⚠️ Important: Replace 'Dhruvikankadiya1337' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvikankadiya1337&layout=compact&langs_count=10&theme=dark"/>
-</div>
+---
 
-## 🔥 Contribution Streak
+## 🤝 Let's Connect
 
-<!-- ⚠️ Important: Replace 'Dhruvikankadiya1337' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvikankadiya1337&theme=dark&hide_border=false" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-kankadiya)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvikankadiya13@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+[![GitHub](https://img.shields.io/github/followers/Dhruvikankadiya1337?style=social)](https://github.com/DhruviKankadiya1337)
 
-## 💻 Tech Stack
+---
 
-```json
-{
-  "frontend": [
-    "React",
-    "HTML5",
-    "CSS3",
-    "Bootstrap"
-  ],
-  "backend": [
-    "Node.js",
-    "Express",
-    "MongoDB"
-  ],
-  "languages": [
-    "JavaScript",
-    "C"
-  ]
-}
-```
+## 🎓 Certifications & Achievements
+- 🏆 HackerRank 5-star Python (Example)  
+- 📜 MERN Stack Full-Stack Development Course  
+- 🥇 Real-world MERN Projects Completed
 
-## 🌐 Socials
+---
 
-```javascript
-const socials = {
-  github: "Dhruvikankadiya1337",
-  linkedin: "dhruvi-kankadiya",
-}
-```
-
-<div>
-<a href="https://github.com/Dhruvikankadiya1337"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dhruvi-kankadiya"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</div>
-
-## 📫 How to reach me
-
-```javascript
-const contact = {
-  email: "dhruvikankadiya13@gmail.com",
-  phone: "8238340690",
-}
-```
-
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
-
-process.exit(0); // Until next time 👋
-```
+> 💡 *“Code is poetry, and every commit tells a story.”*  
