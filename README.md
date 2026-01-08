@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruvi Kanakdiya</h1>
 <h3 align="center">Aspiring frontend developer</h3>
 
-<img aligh="center" alt="coding" width="40%" height="200px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
+<img aligh="right" alt="coding" width="50%" height="200px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvikankadiya1337&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvikankadiya1337" /> </p>
 
