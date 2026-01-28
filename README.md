@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Dhruvi Kanakdiya</h1>
+<h3 align="center">Aspiring full-stack developer</h3>
+
 ## About Me
 
 Junior MERN Stack Developer passionate about building responsive web applications. Skilled in MongoDB, Express.js, React.js, and Node.js. Eager to learn and grow in real-world projects
