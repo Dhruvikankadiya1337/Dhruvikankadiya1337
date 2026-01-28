@@ -25,10 +25,11 @@ Junior MERN Stack Developer passionate about building responsive web application
 ## Connect with me
 
 <p align="center">🔗 LinkedIn: <a href="https://linkedin.com/in/dhruvi-kankadiya" target="_blank">Dhruvi kankadiya</a> 
+  ```
                       Email: 8585dhruvikankadiya@gmail.com</p>
+```
 
-
-<img src="https://github-readme-contribution-calendar.vercel.app/?username=dhruvikankadiya1337&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvikankadiya1337&theme=dark" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvikankadiya1337&theme=react-dark" />
 
